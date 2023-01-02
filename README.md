@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning **Java,JavaScript**
 
 <h3 align="left">Connect with me:</h3>
+Email: sil.vannoort@student.hu.nl
 <p align="left">
 </p>
 
